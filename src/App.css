@@ -1,0 +1,11 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    flex-direction: column;
+    background-color: yellow;
+
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 2fr 8fr;
+
+}
